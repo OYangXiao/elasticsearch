@@ -1,0 +1,13 @@
+{
+  "tag": {
+    "_all": {
+      "enabled": true
+    },
+    "properties": {
+      "content": {
+        "type": "string",
+        "analyzer": "tag_analyzer"
+      }
+    }
+  }
+}
